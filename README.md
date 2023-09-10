@@ -47,3 +47,8 @@ To get started with the Sustainable Urban Garden Initiative:
 1. **Clone the Repository:**
    ```shell
    git clone https://github.com/your-username/sustainable-garden.git**
+
+
+
+
+[https://chat.openai.com/share/faa6a15a-0047-4a0d-98fa-1b2cf7d20212](https://chat.openai.com/share/faa6a15a-0047-4a0d-98fa-1b2cf7d20212)
